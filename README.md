@@ -10,5 +10,3 @@ A passionate Backend developer
 
 ⚡ Learning never ends 
 
-Languages and Tools:
-css3 git html5 java mysql postman python spring
