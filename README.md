@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi👋 I am Shilpi Mazumdar 
 
-<!--
-**po-strikes25/po-strikes25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate Backend developer
 
-Here are some ideas to get you started:
+🔭 I’m currently working on a Spring Boot based E-Commerce project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently upskilling with SpringBoot, JPA, Hibernate
+
+📫 How to reach me letstalknumbers24@gmail.com
+
+⚡ Learning never ends 
+
+Languages and Tools:
+css3 git html5 java mysql postman python spring
