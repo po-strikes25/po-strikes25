@@ -4,7 +4,7 @@
 
 * 🔭 I’m currently working on a Spring Boot based E-Commerce project
 
-* 🌱 I’m currently upskilling with SpringBoot, JPA, Hibernate
+* 🌱 I’m currently upskilling with SpringBoot, JPA, Hibernate, HTML
 
 * 📫 How to reach me letstalknumbers24@gmail.com
 
