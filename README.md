@@ -2,9 +2,11 @@
 
 <p align="center"> A passionate web-developer </p>
 
-* 🔭 I’m currently working on a Spring Boot based E-Commerce project
+* 🔭 I’m currently working on a Full-Stack based project Library Management System
 
-* 🌱 I’m currently upskilling with SpringBoot, JPA, Hibernate, HTML
+* 🌱 I’m currently upskilling with HTML 5, CSS and JavaScript
+
+* 🌱 Adept at Spring Boot, MySQL, Git, Spring MVC
 
 * 📫 How to reach me letstalknumbers24@gmail.com
 
