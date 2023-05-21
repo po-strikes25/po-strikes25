@@ -8,4 +8,4 @@
 
 * 📫 How to reach me letstalknumbers24@gmail.com
 
-* ⚡ Learning never ends 
+* ⚡ Mastering technologies  
